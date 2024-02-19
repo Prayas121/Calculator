@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  color: white;
+  overflow-y: hidden;
+  background-color: rgba(32,32,28,255);
+}
+
+
+.msg{
+  padding: 30px;
+
+}
+
+
+#display{
+  padding: 15px 397px;
+  border: none;
+  color: white;
+  background-color: rgba(32,32,28,255);
+}
+
+.reset{
+position: absolute;
+padding: 25px 2px;
+}
+
+.reset button{
+  padding: 0px 30px ;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: rgba(32,32,28,255);
+}
+
+.assignment {
+  position: absolute;
+  max-width: 70%;
+  padding-top: 70px;
+  /* padding: 90px 5px; */
+}
+
+.assignment span button{
+  background-color: rgba(200,144,208,255);
+}
+
+.assignment button {
+  border-radius: 10px;
+padding: 24.5px 118px;
+font-size: 20px;
+color: white;
+background-color: rgba(51,50,47,255);
+width: 30px;
+
+}
