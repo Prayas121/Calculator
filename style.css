@@ -20,6 +20,7 @@ body{
   padding: 15px 397px;
   border: none;
   color: white;
+  text-align: end;
   background-color: rgba(32,32,28,255);
 }
 
@@ -57,3 +58,5 @@ background-color: rgba(51,50,47,255);
 width: 30px;
 
 }
+
+
